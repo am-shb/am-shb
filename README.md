@@ -8,6 +8,7 @@ I am Amir, a skilled artificial intelligence and machine learning enthusiast wit
 #### Here is a full list of all projects that I have worked on recently
 
 #### Natural Language Processing
+- [AmirBot - My Personal chatbot (A chatbot using GPT-3 and semantic search from a large knowledge base)](https://gist.github.com/am-shb/cbac06e4631c519c60f309633ac1ca56)
 - [Interpersonal Risk Factors detection in Social Media - ACL Paper (Text classification using BERT, GPT, RNN models using Pytorch)](https://github.com/am-shb/irf-acl)
 - [Cyber bullying detection in Twitter (Parallel high-speed execution using HPC using Scikit-learn)](https://github.com/am-shb/cyberbullying-detection)
 - [Digikala Academy comment verification contest (First Prize - ULMFiT model using fastai)](https://github.com/am-shb/digikala-contest)

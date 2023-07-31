@@ -2,7 +2,7 @@
 
 I am Amir, a skilled artificial intelligence and machine learning enthusiast with a passion for technology. I have a Master's degree in Computer Science with AI Specialization and previous working experience in multiple roles such as Software Engineer, Teaching, and Research Assistant. Currently I am an Intern at [Vector Institute](https://vectorinstitute.ai). Don't forget to visit my website at [shahbandegan.me](https://shahbandegan.me). You will find out lots of cool things about me!
 
-**I am actively looking for full time opportunites as a ML Engieer or Data Scientist. If you have any opportunites within your team, please contact me.**
+**I am actively looking for full time opportunites as a ML Engineer or Data Scientist. If you have any opportunites within your team, please contact me.**
 
 ---
 #### Here is a full list of all projects that I have worked on recently
